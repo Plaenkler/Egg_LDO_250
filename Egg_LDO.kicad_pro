@@ -440,7 +440,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "../../../../../Desktop/Egg_LDO.step",
       "vrml": "../../../../../Desktop/Egg_LDO.wrl"
     },
     "page_layout_descr_file": ""
