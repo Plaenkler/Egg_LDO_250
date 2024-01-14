@@ -30,3 +30,7 @@ fp-info-cache
 
 # Prod files
 *.zip
+
+# Private lib tables
+fp-lib-table
+
