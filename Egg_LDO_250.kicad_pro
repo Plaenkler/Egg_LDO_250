@@ -34,9 +34,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.8,
-          "height": 1.35,
-          "width": 1.35
+          "drill": 0.0,
+          "height": 1.2,
+          "width": 0.7
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -49,19 +49,7 @@
         }
       },
       "diff_pair_dimensions": [],
-      "drc_exclusions": [
-        "copper_edge_clearance|138050000|96675000|2c745e40-a0e6-4aae-b287-283fa2922c9a|4ac8658c-6a89-4f7c-ba41-5172e8a5e9c4",
-        "copper_edge_clearance|152700000|96675000|046a2201-8185-4c82-9890-39d499a75aed|c409b6c5-2699-41da-abff-9980c93b3c2b",
-        "courtyards_overlap|139050001|94500001|efb4cea1-7ffe-48e2-90bf-773ea5391e18|2f2ebfc2-6359-4e80-9741-24d1a2900e1e",
-        "courtyards_overlap|151200001|94500001|efb4cea1-7ffe-48e2-90bf-773ea5391e18|04c95861-75c1-4d32-bcba-1f1e17f01f78",
-        "courtyards_overlap|151699999|99800001|efb4cea1-7ffe-48e2-90bf-773ea5391e18|a360cd88-e00a-456b-aa9c-b6b6d3e33e38",
-        "lib_footprint_mismatch|138050000|96000000|2f2ebfc2-6359-4e80-9741-24d1a2900e1e|00000000-0000-0000-0000-000000000000",
-        "lib_footprint_mismatch|145375000|95217500|efb4cea1-7ffe-48e2-90bf-773ea5391e18|00000000-0000-0000-0000-000000000000",
-        "lib_footprint_mismatch|152700000|101300000|a360cd88-e00a-456b-aa9c-b6b6d3e33e38|00000000-0000-0000-0000-000000000000",
-        "lib_footprint_mismatch|152700000|96000000|04c95861-75c1-4d32-bcba-1f1e17f01f78|00000000-0000-0000-0000-000000000000",
-        "starved_thermal|138050000|96000000|b5c560a0-eff8-4bce-af8b-a039a2a789ec|4ac8658c-6a89-4f7c-ba41-5172e8a5e9c4|F.Cu",
-        "starved_thermal|152700000|96000000|b5c560a0-eff8-4bce-af8b-a039a2a789ec|c409b6c5-2699-41da-abff-9980c93b3c2b|F.Cu"
-      ],
+      "drc_exclusions": [],
       "meta": {
         "version": 2
       },
@@ -69,7 +57,7 @@
         "annular_width": "error",
         "clearance": "error",
         "connection_width": "warning",
-        "copper_edge_clearance": "error",
+        "copper_edge_clearance": "ignore",
         "copper_sliver": "warning",
         "courtyards_overlap": "error",
         "diff_pair_gap_out_of_range": "error",
@@ -78,7 +66,7 @@
         "duplicate_footprints": "warning",
         "extra_footprint": "warning",
         "footprint": "error",
-        "footprint_type_mismatch": "ignore",
+        "footprint_type_mismatch": "error",
         "hole_clearance": "error",
         "hole_near_hole": "error",
         "invalid_outline": "error",
@@ -87,7 +75,7 @@
         "items_not_allowed": "error",
         "length_out_of_range": "error",
         "lib_footprint_issues": "warning",
-        "lib_footprint_mismatch": "warning",
+        "lib_footprint_mismatch": "ignore",
         "malformed_courtyard": "error",
         "microvia_drill_out_of_range": "error",
         "missing_courtyard": "ignore",
@@ -102,7 +90,7 @@
         "silk_overlap": "warning",
         "skew_out_of_range": "error",
         "solder_mask_bridge": "error",
-        "starved_thermal": "error",
+        "starved_thermal": "ignore",
         "text_height": "warning",
         "text_thickness": "warning",
         "through_hole_pad_without_hole": "error",
@@ -404,7 +392,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Egg_LDO.kicad_pro",
+    "filename": "Egg_LDO_250.kicad_pro",
     "version": 1
   },
   "net_settings": {
