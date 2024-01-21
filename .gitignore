@@ -34,3 +34,6 @@ fp-info-cache
 # Private lib tables
 fp-lib-table
 
+# Local remappings
+archive_3d_models.log
+
