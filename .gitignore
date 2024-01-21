@@ -37,3 +37,6 @@ fp-lib-table
 # Local remappings
 archive_3d_models.log
 
+# Locking files
+*.lck
+

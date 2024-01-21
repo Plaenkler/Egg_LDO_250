@@ -178,7 +178,7 @@
     )
     (pad "1" thru_hole rect (at 0 0) (size 1.7 1.7) (drill 1) (layers "*.Cu" "*.Mask")
       (net 2 "GND") (pinfunction "Pin_1") (pintype "passive") (tstamp 496abe0a-3fa6-486f-a38c-023190106691))
-    (model "${KICAD6_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x01_P2.54mm_Vertical.wrl"
+    (model "${KIPRJMOD}/Egg_LDO_250_3D/PinHeader_1x01_P2.54mm_Vertical.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -232,7 +232,7 @@
       (net 4 "Net-(J4-PadA5)") (pinfunction "1") (pintype "passive") (tstamp 1e227bd3-33e4-4918-97a2-bb520c7f8bc9))
     (pad "2" smd rect (at 0.575 0) (size 0.65 0.9) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 2 "GND") (pinfunction "2") (pintype "passive") (tstamp 69aeb189-f0a4-4316-b4d2-80269a25760c))
-    (model "C:\\Users\\Simon\\Documents\\Workspace\\Locale\\LibLoader\\SamacSys_Parts.3dshapes\\ERJ-UP3J512V.stp"
+    (model "${KIPRJMOD}/Egg_LDO_250_3D/ERJ-UP3J512V.stp"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -338,7 +338,7 @@
       (net 2 "GND") (pinfunction "MP3") (pintype "passive") (tstamp e5921d2d-70d3-4b02-aaa7-1cf8260e68de))
     (pad "MP4" smd rect (at 5.125 0.6 270) (size 1.5 1.8) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 2 "GND") (pinfunction "MP4") (pintype "passive") (tstamp 590f2df9-028a-4504-845c-a1831cca0b2c))
-    (model "C:\\Users\\Simon\\Documents\\Workspace\\Locale\\LibLoader\\SamacSys_Parts.3dshapes\\USB4135-GF-A.stp"
+    (model "${KIPRJMOD}/Egg_LDO_250_3D/USB4135-GF-A.stp"
       (offset (xyz -0.009999999626 -3.349999854 0.01999999925))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 0))
@@ -392,7 +392,7 @@
       (net 1 "+5V") (pinfunction "1") (pintype "passive") (tstamp a048012c-c0cb-42b5-831f-d5af8e57def0))
     (pad "2" smd rect (at 0.8 0 270) (size 0.95 1) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 2 "GND") (pinfunction "2") (pintype "passive") (tstamp e4c5a9a7-6458-4ad7-900f-dc81314073dd))
-    (model "C:\\Users\\Simon\\Documents\\Workspace\\Locale\\LibLoader\\SamacSys_Parts.3dshapes\\C0603C106M8PAC7411.stp"
+    (model "${KIPRJMOD}/Egg_LDO_250_3D/C0603C106M8PAC7411.stp"
       (offset (xyz -0.8699999917 -0.4799999821 0))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 0))
@@ -446,7 +446,7 @@
       (net 3 "+3.3V") (pinfunction "1") (pintype "passive") (tstamp 35a6cc1c-761e-4f7e-8d0b-0237bc33e5d4))
     (pad "2" smd rect (at 0.8 0 270) (size 0.95 1) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 2 "GND") (pinfunction "2") (pintype "passive") (tstamp b9989f4c-9e21-4d0f-8fc1-ff2c0b9f1153))
-    (model "C:\\Users\\Simon\\Documents\\Workspace\\Locale\\LibLoader\\SamacSys_Parts.3dshapes\\C0603C106M8PAC7411.stp"
+    (model "${KIPRJMOD}/Egg_LDO_250_3D/C0603C106M8PAC7411.stp"
       (offset (xyz -0.8699999917 -0.4799999821 0))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 0))
@@ -504,7 +504,7 @@
       (net 3 "+3.3V") (pinfunction "VOUT") (pintype "passive") (tstamp 8a654fbf-5707-4378-a3ca-82581cac8a01))
     (pad "3" smd rect (at 1.05 0 270) (size 0.65 1.25) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 1 "+5V") (pinfunction "VIN") (pintype "passive") (tstamp 17c07cce-14ec-44d1-a9ef-eb1f7201bb0f))
-    (model "C:\\Users\\Simon\\Documents\\Workspace\\Locale\\LibLoader\\SamacSys_Parts.3dshapes\\MCP1700T-3302E_TT.stp"
+    (model "${KIPRJMOD}/Egg_LDO_250_3D/MCP1700T-3302E_TT.stp"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -558,7 +558,7 @@
       (net 5 "Net-(J4-PadB5)") (pinfunction "1") (pintype "passive") (tstamp 2d8e5ea1-8c34-4af7-9ddb-171ae8d46ddb))
     (pad "2" smd rect (at 0.575 0 180) (size 0.65 0.9) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 2 "GND") (pinfunction "2") (pintype "passive") (tstamp ec42f4ab-c148-458d-978e-ff97de03ae09))
-    (model "C:\\Users\\Simon\\Documents\\Workspace\\Locale\\LibLoader\\SamacSys_Parts.3dshapes\\ERJ-UP3J512V.stp"
+    (model "${KIPRJMOD}/Egg_LDO_250_3D/ERJ-UP3J512V.stp"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
