@@ -2,8 +2,8 @@
 
 <table>
   <tr>
-    <td><img src="https://github.com/Plaenkler/Egg-LDO-250/assets/60503970/a7d48426-4776-4cf5-9b1a-45629d2fef65"></td>
-    <td><img src="https://github.com/Plaenkler/Egg-LDO-250/assets/60503970/23c0ae09-3598-4020-afbe-7c477d423a52"></td>
+    <td><img src="https://github.com/Plaenkler/Egg_LDO_250/assets/60503970/0bc95c62-b583-4c91-be41-ed8abd3cf56e"></td>
+    <td><img src="https://github.com/Plaenkler/Egg_LDO_250/assets/60503970/9b1933c9-ae9a-4d60-b8ee-5cebc0db95cc"></td>
   </tr>
 </table>
 
@@ -15,13 +15,13 @@ Each of my circuits starts with the voltage source which is why **LDO 250** prov
 
 ## ⚡ Circuit diagram
 
-![Schematics](https://github.com/Plaenkler/Egg-LDO-250/assets/60503970/173a8fb0-ef9d-49eb-bfcc-f49e78807d77)
+![Schematics](https://github.com/Plaenkler/Egg_LDO_250/assets/60503970/ec083e19-5229-4551-93cf-a9c46f9f26b0)
 
 ## 🔌 Components
 
 ### USB-C connector
 
-The 6-pin USB-C connector *10164359-00011LF* can be sufficient for power supply in scenarios where space is limited and only basic USB functions are required.
+The 6-pin USB-C connector *USB4135-GF-A* can be sufficient for power supply in scenarios where space is limited and only basic USB functions are required.
 This simplified version of the standard USB-C connector provides the essential connections for the power supply and is therefore ideal for small IoT projects.
 
 ### Low-dropout regulator
