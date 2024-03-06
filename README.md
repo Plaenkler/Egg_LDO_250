@@ -2,8 +2,8 @@
 
 <table>
   <tr>
-    <td><img src="https://github.com/Plaenkler/Egg_LDO_250/assets/60503970/0bc95c62-b583-4c91-be41-ed8abd3cf56e"></td>
-    <td><img src="https://github.com/Plaenkler/Egg_LDO_250/assets/60503970/9b1933c9-ae9a-4d60-b8ee-5cebc0db95cc"></td>
+    <td><img src="https://github.com/Plaenkler/Egg_LDO_250/assets/60503970/e28682ca-182d-4f15-a9c4-fa56485a4c57"></td>
+    <td><img src="https://github.com/Plaenkler/Egg_LDO_250/assets/60503970/3899b70b-157a-45b2-bb2f-9803c474b8b6"></td>
   </tr>
 </table>
 
